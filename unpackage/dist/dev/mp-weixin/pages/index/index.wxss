@@ -1,0 +1,17 @@
+
+.box {
+  width: 100%;
+  height: 400rpx;
+  box-sizing: border-box;
+  margin-bottom: 20rpx;
+  border: 2px solid dodgerblue;
+}
+.item {
+  box-sizing: border-box;
+  padding: 10rpx;
+  border-bottom: 1px solid #ccc;
+}
+button {
+  margin-bottom: 20rpx;
+}
+

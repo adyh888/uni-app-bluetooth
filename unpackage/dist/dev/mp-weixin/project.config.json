@@ -1,0 +1,26 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "es6": true,
+    "enhance": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.26.0",
+  "appid": "wxd0f147318bab9d76",
+  "projectname": "uni-app-bluetooth",
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
