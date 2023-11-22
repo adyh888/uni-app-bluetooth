@@ -6,16 +6,20 @@
   },
   "setting": {
     "urlCheck": false,
+    "es6": true,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true,
+    "bigPackageSizeSupport": true,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
     },
-    "es6": true,
-    "enhance": true
+    "condition": false
   },
   "compileType": "miniprogram",
-  "libVersion": "2.26.0",
+  "libVersion": "3.2.1",
   "appid": "wxd0f147318bab9d76",
   "projectname": "uni-app-bluetooth",
   "condition": {},
